@@ -7,7 +7,7 @@
 
 :root {
   /* the five */
-  --green: #10693A;   /* the mark, links, primary buttons, active states */
+  --green: #084C2B;   /* the mark, links, primary buttons, active states */
   --ink: #1B2620;     /* all headings and body text */
   --paper: #F7F7F4;   /* page background */
   --mist: #E7EBE6;    /* rules, table borders, code chips, quiet surfaces */
@@ -18,7 +18,7 @@
   --green-tint: #E8F0EA;
   --green-wash: #F1F6F2;
   --clay-tint: #F6E9E2;
-  --ink-soft: #55635A;
+  --ink-soft: #3B463F;
   --surface: #FFFFFF;
   --line: #E7EBE6;
   --line-firm: #D9E0D9;
@@ -559,10 +559,10 @@ footer.site .legal {
   flex-wrap: wrap;
   gap: 8px 20px;
   font-size: 14px;
-  color: #9AA69E;
+  color: #BFC9C2;
 }
 
-footer.site .legal a { color: #9AA69E; }
+footer.site .legal a { color: #BFC9C2; }
 
 /* ---------- the graphic system ----------
 
